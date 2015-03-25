@@ -6,7 +6,7 @@ Use via node on command line.
 
 ## Setup
 
-Use nodejs for easy command line logging to understand concepts.
+Use nodejs for easy command line logging to understand concepts eg.
 
 ### 
-    $ gem install node
+    $ node prototypes
